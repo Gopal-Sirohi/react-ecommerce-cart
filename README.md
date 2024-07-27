@@ -21,13 +21,13 @@ Here are screenshots that show the E-commerce demo application in use.
 ![Shopping Cart](/screenshots/shoppingCart.png?raw=true "Shopping Cart")
 
 ## Getting Started
-To get started  you can simply clone this `ecommerce-demo` repository and install the dependencies.
+To get started  you can simply clone this `E-commerce Cart` repository and install the dependencies.
 
-Clone the `ecommerce-demo` repository using git:
+Clone the `E-commerce Cart` repository using git:
 
 ```bash
 git clone https://github.com/Gopal-Sirohi/react-ecommerce-cart.git
-cd ecommerce-demo
+cd react-ecommerce-cart
 ```
 
 Install dependencies with this command:
